@@ -1,4 +1,4 @@
-# library-App UIKIT & SwiftUI # (UIKit - navigation, SwiftUI: UI)
+# library-App UIKIT & SwiftUI (UIKit - navigation, SwiftUI: UI)
 An app for adding books to your personal library
 
 https://github.com/user-attachments/assets/d26c660a-b7ad-4ea4-adf8-4e5c1a130642
